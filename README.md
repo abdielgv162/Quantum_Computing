@@ -42,6 +42,7 @@ Dentro de cada sección se encuentran los notebooks y los programas en sus carpe
     9. [Juegos y Demos](#)
 2. [Programas](#)
    1. [Medio sumador](#)
+   2. [Variational Quantum Eigensolver — Coding with Qiskit S2E4](#)
 
 
 ---
