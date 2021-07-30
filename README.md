@@ -30,21 +30,21 @@ Dentro de cada sección se encuentran los notebooks y los programas en sus carpe
 
 ## Orden de contenidos
 
-1.  [Qiskit Textbook](#)
-    1. [Estados cuánticos y Qubits](#)
-    2. [Múltiples Qubits y entrelazamiento](#)
-    3. [Protocolos cuánticos y algoritmos cuánticos](#)
+1.  [Qiskit Textbook](https://github.com/abdielgv162/Quantum_Computing/tree/master/Qiskit_Notebook)
+    1. [Estados cuánticos y Qubits](https://github.com/abdielgv162/Quantum_Computing/tree/master/Qiskit_Notebook/1_Estados_Cuanticos_y_Qubits)
+    2. [Múltiples Qubits y entrelazamiento](https://github.com/abdielgv162/Quantum_Computing/tree/master/Qiskit_Notebook/2_Multiples_Qubits_y_Entrelazamiento)
+    3. [Protocolos cuánticos y algoritmos cuánticos](https://github.com/abdielgv162/Quantum_Computing/tree/master/Qiskit_Notebook/3_Protocolos_Cuanticos_y_Algoritmos_Cuanticos)
     4. [Algoritmos cuánticos para aplicaciones](#)
-    5. [Investigando Hardware Cuántico usando circuitos cuánticos](#)
+    5. [Investigando Hardware Cuántico usando circuitos cuánticos](https://github.com/abdielgv162/Quantum_Computing/tree/master/Qiskit_Notebook/5_Investigando_Hardware_Cuantuco_usando_Circuitos_Cuanticos)
     6. [Investigando Hardware Cuántico usando pulsos de microondas](#)
     7. [Quantum Labs](#)
     8. [Apéndice de álgebra lineal](#)
     9. [Juegos y Demos](#)
-2. [Programas](#)
-   1. [Medio sumador](#)
-   2. [Variational Quantum Eigensolver — Coding with Qiskit S2E4](#)
+2. [Programas](https://github.com/abdielgv162/Quantum_Computing/tree/master/Programas)
+   1. [Medio sumador](https://github.com/abdielgv162/Quantum_Computing/blob/master/Programas/Medio_Sumador.ipynb)
+   2. [Variational Quantum Eigensolver — Coding with Qiskit S2E4](https://github.com/abdielgv162/Quantum_Computing/blob/master/Programas/_Variational_Quantum_Eigensolver%20.ipynb)
 3. [Qiskit Global Summer School 2021: Quantum Machine Learning](https://github.com/abdielgv162/Quantum_Computing/tree/master/Qiskit_QSS_2021_Quantum_Machine_Learning)
-   1. [Labs](#)
+   1. [Labs](https://github.com/abdielgv162/Quantum_Computing/tree/master/Qiskit_QSS_2021_Quantum_Machine_Learning/Labs)
 
 
 ---
