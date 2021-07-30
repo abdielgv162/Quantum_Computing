@@ -43,7 +43,9 @@ Dentro de cada sección se encuentran los notebooks y los programas en sus carpe
 2. [Programas](https://github.com/abdielgv162/Quantum_Computing/tree/master/Programas)
    1. [Medio sumador](https://github.com/abdielgv162/Quantum_Computing/blob/master/Programas/Medio_Sumador.ipynb)
    2. [Variational Quantum Eigensolver — Coding with Qiskit S2E4](https://github.com/abdielgv162/Quantum_Computing/blob/master/Programas/_Variational_Quantum_Eigensolver%20.ipynb)
-3. [Qiskit Global Summer School 2021: Quantum Machine Learning](https://github.com/abdielgv162/Quantum_Computing/tree/master/Qiskit_QSS_2021_Quantum_Machine_Learning)
+3. [IBM Quantum Challenge 2021](https://github.com/abdielgv162/Quantum_Computing/tree/master/IBM_Quantum_Challenge_2021)
+    1. [Ejercicios en Inglés](https://github.com/abdielgv162/Quantum_Computing/tree/master/IBM_Quantum_Challenge_2021/Ejercicios_en_Ingles)      
+5. [Qiskit Global Summer School 2021: Quantum Machine Learning](https://github.com/abdielgv162/Quantum_Computing/tree/master/Qiskit_QSS_2021_Quantum_Machine_Learning)
    1. [Labs](https://github.com/abdielgv162/Quantum_Computing/tree/master/Qiskit_QSS_2021_Quantum_Machine_Learning/Labs)
 
 
