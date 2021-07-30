@@ -43,6 +43,8 @@ Dentro de cada sección se encuentran los notebooks y los programas en sus carpe
 2. [Programas](#)
    1. [Medio sumador](#)
    2. [Variational Quantum Eigensolver — Coding with Qiskit S2E4](#)
+3. [Qiskit Global Summer School 2021: Quantum Machine Learning](https://github.com/abdielgv162/Quantum_Computing/tree/master/Qiskit_QSS_2021_Quantum_Machine_Learning)
+   1. [Labs](#)
 
 
 ---
