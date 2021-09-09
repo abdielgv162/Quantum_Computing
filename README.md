@@ -51,7 +51,7 @@ Dentro de cada sección se encuentran los notebooks y los programas en sus carpe
 5. [Qiskit Global Summer School 2021: Quantum Machine Learning](https://github.com/abdielgv162/Quantum_Computing/tree/master/Qiskit_QSS_2021_Quantum_Machine_Learning)
    1. [Labs](https://github.com/abdielgv162/Quantum_Computing/tree/master/Qiskit_QSS_2021_Quantum_Machine_Learning/Labs)
 6. [IBM Quantum Challenge Africa 20021](https://github.com/abdielgv162/Quantum_Computing/tree/master/IBM_Quantum_Challenge_Africa_2021)
-    1. [Crop-Yield Problem]  
+    1. [Crop-Yield Problem]()
 
 
 
